@@ -8,4 +8,6 @@ I recreated the original author's schematic on Altium Designer, and used it to c
 
 ![image](https://github.com/user-attachments/assets/34bc8825-217e-43db-bc09-a044b62dd793)
 
+There's also a [demo](https://youtube.com/shorts/dsNalL1WHec) of the synthesizer at work.
+
 
