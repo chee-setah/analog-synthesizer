@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Synth\Project Outputs for Synth\Pick Place\Pick Place for Synth.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20-07-24
+Time:       02:35
+Revision:   686f1f1e8888bb3971a979466fbdb6c1795fdd85
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                
+CAP        SSW-103-01-G-S TopLayer RHDR3W64P0X254_1X3_813X241X851P 2048.819      1358.268      0        Connector                                                                                                                  
+1N4001     1N4001-T       TopLayer DIOD-DO-41-P-2_V                1023.622      1496.063      90       "1.0 A Rectifier, 15 pF, 50 V, -65 to 150 degC, 2-Pin DO-41 Plastic, RoHS, Tape and Reel"                                  
+1N4001     1N4001-T       TopLayer DIOD-DO-41-P-2_V                826.772       1496.063      270      "1.0 A Rectifier, 15 pF, 50 V, -65 to 150 degC, 2-Pin DO-41 Plastic, RoHS, Tape and Reel"                                  
+BC337      BC337          TopLayer ONSC-TO-92-3-29-11_AM_BL        4114.173      1751.968      270      "Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Pb-Free, Ammo Box"                                                        
+GND        SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S                925.197       1948.819      270      Connector                                                                                                                  
+2.2K       2.2K           TopLayer RESA60-630X240                  1220.472      1496.063      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+2.2K       2.2K           TopLayer RESA60-630X240                  629.921       1496.063      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+LED2       151031VS04000  TopLayer WL-TMRC_D3.95H5.3               1437.008      1938.189      90       ""                                                                                                                         
+LED1       151031VS04000  TopLayer WL-TMRC_D3.95H5.3               383.071       1948.819      0        ""                                                                                                                         
+-12V_DC    SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S                1220.472      1948.819      270      Connector                                                                                                                  
++12V_DC    SSW-101-01-G-S TopLayer SSW-101-XX-YYY-S                610.236       1948.819      270      Connector                                                                                                                  
+PTH4       PTH-M2D5X5     TopLayer PTH-M2D5X5                      4940.945      137.795       0        "M2 PTH (2.5mm), 5mm pad"                                                                                                  
+PTH3       PTH-M2D5X5     TopLayer PTH-M2D5X5                      4940.945      2047.244      0        "M2 PTH (2.5mm), 5mm pad"                                                                                                  
+PTH2       PTH-M2D5X5     TopLayer PTH-M2D5X5                      137.795       137.795       0        "M2 PTH (2.5mm), 5mm pad"                                                                                                  
+PTH1       PTH-M2D5X5     TopLayer PTH-M2D5X5                      137.795       2047.244      0        "M2 PTH (2.5mm), 5mm pad"                                                                                                  
+VOLUME     "100k LOG"     TopLayer PDB181K420K104A2                2874.016      1988.189      180      "Variable Resistor PDB181-K420K-104A2"                                                                                     
+U1         TL072CP        TopLayer P0008A                          1830.708      1712.598      90       "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin DIP (P8), Pb-Free (RoHS)" 
+SW8        12x12mm        TopLayer 4304x60857x6                    4468.504      433.071       270      ""                                                                                                                         
+SW7        12x12mm        TopLayer 4304x60857x6                    3917.323      433.071       270      ""                                                                                                                         
+SW6        12x12mm        TopLayer 4304x60857x6                    3366.142      433.071       270      ""                                                                                                                         
+SW5        12x12mm        TopLayer 4304x60857x6                    2814.961      433.071       270      ""                                                                                                                         
+SW4        12x12mm        TopLayer 4304x60857x6                    2263.780      433.071       270      ""                                                                                                                         
+SW3        12x12mm        TopLayer 4304x60857x6                    1712.598      433.071       270      ""                                                                                                                         
+SW2        12x12mm        TopLayer 4304x60857x6                    1161.417      433.071       270      ""                                                                                                                         
+SW1        12x12mm        TopLayer 4304x60857x6                    610.236       433.071       270      ""                                                                                                                         
+22K        22K            TopLayer RESA60-630X240                  3759.843      1397.638      0        "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+22K        22K            TopLayer RESA60-630X240                  3759.843      1909.449      180      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+2.4K       2.4K           TopLayer RESA60-630X240                  511.811       1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+15K        15K            TopLayer RESA60-630X240                  708.661       1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+510        510            TopLayer RESA60-630X240                  1062.992      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+15K        15K            TopLayer RESA60-630X240                  1259.842      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+5.6K       5.6K           TopLayer RESA60-630X240                  1614.173      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+8.2K       8.2K           TopLayer RESA60-630X240                  1811.024      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+1K         1K             TopLayer RESA60-630X240                  2165.354      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+12K        12K            TopLayer RESA60-630X240                  2362.205      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+1.8K       1.8K           TopLayer RESA60-630X240                  2716.535      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+10K        10K            TopLayer RESA60-630X240                  2913.386      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+330        330            TopLayer RESA60-630X240                  3267.716      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+10K        10K            TopLayer RESA60-630X240                  3464.567      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+120        120            TopLayer RESA60-630X240                  3818.898      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+9.1K       9.1K           TopLayer RESA60-630X240                  4015.748      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+510        510            TopLayer RESA60-630X240                  4370.079      1023.622      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+8.2K       8.2K           TopLayer RESA60-630X240                  4566.929      1023.622      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+220K       220K           TopLayer RESA60-630X240                  2204.724      1712.598      90       "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+220K       220K           TopLayer RESA60-630X240                  2401.575      1712.598      270      "Axial Resistor, 10 KOhm, +/- 1%, 0.25 W, -55 to 155 degC, 2-Pin THD, RoHS, Bulk"                                          
+BC327      BC327          TopLayer ONSC-TO-92-3-29-11_AM_BL        4153.543      1456.693      90       "Amplifier Transistor, PNP Silicon, 3-Pin TO-92, Pb-Free, Ammo Box"                                                        
+SPEAKER    SPEAKER        TopLayer AL60P                           4547.244      1574.803      270      "8 Ohms Low Profile Speaker 250mW 380Hz ~ 10kHz Top Round 93dB"                                                            
+1N4148     1N4148         TopLayer FP-017AG-MFG                    3759.843      1574.803      180      "DIODE GEN PURP 100V 200MA DO35"                                                                                           
+1N4148     1N4148         TopLayer FP-017AG-MFG                    3759.843      1732.284      0        "DIODE GEN PURP 100V 200MA DO35"                                                                                           
+100nF      100nF          TopLayer CAP_MKT1817_7p2x2p5x6p5-5_VIS   3425.197      1474.803      270      MKT1817410064W                                                                                                             
+100nF      100nF          TopLayer CAP_MKT1817_7p2x2p5x6p5-5_VIS   3425.197      1829.134      90       MKT1817410064W                                                                                                             
