@@ -10,11 +10,9 @@ I recreated the original author's schematic on Altium Designer, and used it to c
 
 ![image](https://github.com/user-attachments/assets/34bc8825-217e-43db-bc09-a044b62dd793)
 
-![image](https://github.com/user-attachments/assets/7cf7aadc-de13-42ac-b6c8-9a6dd0766a7a)
+![IMG_5710](https://github.com/user-attachments/assets/3e2ccf58-0fe2-4f83-a7ae-0a4192197ef1)
 
-![image](https://github.com/user-attachments/assets/1af4e585-2bf0-4e8a-a258-1e5d522beb06)
-
-![image](https://github.com/user-attachments/assets/1a358bf1-ba5b-445b-a574-40dbcd6c9d71)
+![IMG_5718](https://github.com/user-attachments/assets/fd56e0cb-4ac2-4d64-b933-7f4f57de5486)
 
 
 
